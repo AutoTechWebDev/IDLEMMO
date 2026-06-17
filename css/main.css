@@ -288,3 +288,38 @@ details{
 
     margin:20px 0;
 }
+.slot-card{
+
+    padding:15px;
+
+    border:1px solid #293247;
+
+    border-radius:10px;
+
+    margin-bottom:10px;
+
+    cursor:pointer;
+
+    background:#111827;
+}
+
+.slot-card:hover{
+
+    border-color:#8b5cf6;
+}
+
+.stat-row{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    padding:5px 0;
+}
+
+.effect-row{
+
+    padding:5px 0;
+
+    border-bottom:1px solid #293247;
+}
