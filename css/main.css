@@ -154,3 +154,63 @@ button.primary{
 
     cursor:pointer;
 }
+.enemy-card{
+
+    background:#111827;
+
+    border:1px solid #293247;
+
+    border-radius:12px;
+
+    padding:15px;
+
+    margin-bottom:15px;
+}
+
+.enemy-header{
+
+    display:flex;
+
+    gap:15px;
+
+    align-items:center;
+}
+
+.enemy-image{
+
+    width:64px;
+
+    height:64px;
+
+    object-fit:contain;
+}
+
+.enemy-stats{
+
+    margin-top:10px;
+
+    display:flex;
+
+    gap:20px;
+}
+
+.enemy-stats span{
+
+    color:#cbd5e1;
+}
+
+details{
+
+    margin-top:15px;
+}
+
+.loot-row{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    padding:5px 0;
+}
